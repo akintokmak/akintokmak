@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Akın Tokmak</h1>
+<h1 align="center">Hi 👋,  I'm Akın Tokmak</h1>
 <h3 align="center">Computer Engineering Student | Python Developer & AI Enthusiast</h3>
 
 - 🌱 I’m currently learning **Python (Angela Yu's 100 Days of Code) and Artificial Intelligence**
 
 - 💬 Ask me about **Python basics, Git/GitHub, and my 100 Days of Code journey**
 
-- 📫 How to reach me **akinntok.45@gmail.com**
+- 📫 How to reach me **akinntok.45@gmail.com** 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
