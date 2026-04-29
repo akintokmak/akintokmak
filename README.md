@@ -1,20 +1,57 @@
-<h1 align="center">Hi 👋,  I'm Akın Tokmak</h1>
-<h3 align="center">Computer Engineering Student | Python Developer & AI Enthusiast</h3>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/type=waving&color=auto&height=200&section=header&text=Hi%20👋,%20I'm%20Akın%20Tokmak&fontSize=70&animation=fadeIn" />
 
-- 🌱 I’m currently learning **Python (Angela Yu's 100 Days of Code) and Artificial Intelligence**
+  <h3>🎓 Computer Engineering Student | Python Developer | AI Enthusiast</h3>
 
-- 💬 Ask me about **Python basics, Git/GitHub, and my 100 Days of Code journey**
+  <p>
+    <a href="https://linkedin.com/in/akın-tokmak-1551a8234" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="https://instagram.com/akintokmk" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+    <a href="mailto:akinntok.45@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  </p>
+</div>
 
-- 📫 How to reach me **akinntok.45@gmail.com** 
+---
 
-<h3 align="left">Connect with me:</h3>
+### 👨‍💻 About Me
+- 🚀 Currently mastering **Python** through Angela Yu's 100 Days of Code.
+- 🤖 Deeply interested in **Artificial Intelligence** and Machine Learning.
+- 🎓 2nd-year Computer Engineering student focusing on software architecture.
+- 💬 Ask me about **Python, Git/GitHub, or my coding journey.**
+
+---
+
+### 🛠️ Languages and Tools
 <p align="left">
-<a href="https://linkedin.com/in/akın-tokmak-1551a8234" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akın-tokmak-1551a8234" height="30" width="40" /></a>
-<a href="https://instagram.com/akintokmk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="akintokmk" height="30" width="40" /></a>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" />
+  <br />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
 
+### 📊 GitHub Statistics
+<div align="center">
+  <table border="0">
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=akintokmak&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
+      </td>
+      <td>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=akintokmak&theme=tokyonight" alt="Streak Stats" />
+      </td>
+    </tr>
+  </table>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akintokmak&layout=compact&theme=tokyonight&hide_langs=html,css" alt="Top Langs" />
+</div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akintokmak&" alt="akintokmak" /></p>
+---
+
+<div align="center">
+  <sub>"Stay hungry, stay foolish." - <b>Steve Jobs</b></sub>
+</div>
