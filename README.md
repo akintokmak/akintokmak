@@ -1,12 +1,4 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/type=waving&color=282a36&height=220&section=header&text=Hi%20👋,%20I'm%20Akın%20Tokmak&fontSize=65&animation=fadeIn&fontAlignY=38&fontColor=bd93f9" />
-
-  <h1 align="center">
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="50" />
-    <br />
-    <font color="#00BFFF"> </font> 
-  </h1>
-  
   <h1 align="center" style="font-size: 70px; color: #00BFFF;"> </> </h1>
 
   <a href="https://git.io/typing-svg">
@@ -37,7 +29,7 @@
 ### 👨‍💻 Engineering Profile
 * **Academic:** 2nd-year Computer Engineering student focusing on software architecture.
 * **Current Goal:** Mastering **Python** through the 100 Days of Code challenge.
-* **Algorithms:** Refing logic by solving the **LeetCode 75** list.
+* **Algorithms:** Refining logic by solving the **LeetCode 75** list.
 * **Interest:** Exploring **AI** and **Deep Learning** frameworks.
 
 ---
