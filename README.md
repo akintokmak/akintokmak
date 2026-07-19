@@ -43,17 +43,16 @@ I am a 2nd-year **Computer Engineering** student with a strong focus on software
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akintokmak&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="Akın's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akintokmak&theme=dracula&hide_border=true" alt="Akın's Streak" width="48%" />
+  <a href="https://github.com/akintokmak">
+    <img height="195" src="https://github-readme-stats.vercel.app/api?username=akintokmak&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="Akın's GitHub Stats" />
+  </a>
+  <a href="https://github.com/akintokmak">
+    <img height="195" src="https://github-readme-streak-stats.herokuapp.com/?user=akintokmak&theme=dracula&hide_border=true" alt="Akın's Streak" />
+  </a>
   
-  <br/><br/>
+  <br><br>
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akintokmak&layout=compact&theme=dracula&hide_border=true&hide_langs=html,css" alt="Top Languages" width="60%" />
-</div>
-
----
-
-<div align="center">
-  <i>"Talk is cheap. Show me the code."</i><br>
-  — <b>Linus Torvalds</b>
+  <a href="https://github.com/akintokmak">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akintokmak&layout=compact&theme=dracula&hide_border=true&hide_langs=html,css" alt="Top Languages" />
+  </a>
 </div>
