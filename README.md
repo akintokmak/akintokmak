@@ -46,13 +46,4 @@ I am a 2nd-year **Computer Engineering** student with a strong focus on software
   <a href="https://github.com/akintokmak">
     <img height="195" src="https://github-readme-stats.vercel.app/api?username=akintokmak&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="Akın's GitHub Stats" />
   </a>
-  <a href="https://github.com/akintokmak">
-    <img height="195" src="https://github-readme-streak-stats.herokuapp.com/?user=akintokmak&theme=dracula&hide_border=true" alt="Akın's Streak" />
-  </a>
-  
-  <br><br>
-  
-  <a href="https://github.com/akintokmak">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akintokmak&layout=compact&theme=dracula&hide_border=true&hide_langs=html,css" alt="Top Languages" />
-  </a>
 </div>
