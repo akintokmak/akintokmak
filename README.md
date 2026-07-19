@@ -43,7 +43,7 @@ I am a 2nd-year **Computer Engineering** student with a strong focus on software
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <a href="https://github.com/akintokmak">
-    <img height="195" src="https://github-readme-stats.vercel.app/api?username=akintokmak&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="Akın's GitHub Stats" />
+ <a href="https://github.com/akintokmak">
+    <img height="195" src="https://github-readme-streak-stats.herokuapp.com/?user=akintokmak&theme=dracula&hide_border=true" alt="Akın's Streak" />
   </a>
 </div>
