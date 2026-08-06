@@ -22,7 +22,7 @@ I am a 2nd-year **Computer Engineering** student with a strong focus on software
 - 🚀 **Currently focused on:** Progressing through **100 Days of Code (Python)** to build efficient, real-world applications.
 - 🧠 **Algorithms & Data Structures:** Actively solving the **LeetCode 75** study plan to sharpen my competitive programming skills.
 - 🎮 **Recent Projects:** Developing 2D sci-fi action-platformers like *Dust and Signals* using Unity and C#.
-- 🤖 **Interests:** Highly passionate about **Artificial Intelligence** and robust backend engineering.
+- 🤖 **Interests:** Highly passionate about **Artificial Intelligence** and robust backend  engineering.
 
 ---
 
