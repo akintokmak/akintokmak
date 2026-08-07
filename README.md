@@ -2,8 +2,10 @@
 
 # Akın Tokmak
 
+### Computer Engineering Student | Aspiring Software & AI Engineer
+
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Computer+Engineering+Student;Backend+%26+Full-Stack+Developer;Python+%7C+JavaScript+%7C+C%2B%2B;Solving+LeetCode+75;Aspiring+AI%2FML+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Computer+Engineering+Student;Python+%26+C%23+Developer;Solving+LeetCode+75;Data+Structures+Explorer;Building+with+AI+Tools" alt="Typing SVG" />
 </a>
 
 <p>
@@ -15,79 +17,55 @@
 
 ---
 
-### About
+### 👨‍💻 About Me
 
-Third-year Computer Engineering student focused on backend development and applied machine learning. I build things that actually get used — currently a production business management system for a local auto service company — and I'm working toward a career as an AI/ML engineer.
+I am a third-year **Computer Engineering** student focused on problem-solving, algorithms, and learning to build software that solves real problems. I care about understanding how things work under the hood, and I'm steadily expanding from fundamentals toward applied artificial intelligence.
 
-- 🔭 **Building:** A full-stack management platform for an auto wash & tire service — appointment booking, role-based authentication, automated WhatsApp notifications, and revenue reporting
-- 🌱 **Learning:** Python fundamentals via *100 Days of Code*, moving next into NumPy, pandas, and PyTorch
-- 🧩 **Practicing:** LeetCode 75 study plan, with a foundation in C++ data structures and algorithms
-- 🎮 **Previously:** 2D sci-fi action-platformer development in Unity & C#
-- 📫 **Reach me:** akinntok.45@gmail.com
-
----
-
-### Featured Projects
-
-| Project | Description | Stack |
-|---|---|---|
-| **[Auto Service Management System](https://github.com/akintokmak)** | Full-stack booking and operations platform: role-based auth, appointment scheduling, walk-in entry, customer self-cancellation, WhatsApp notifications, and revenue reporting | `Node.js` `Express` `Vanilla JS` `HTML/CSS` |
-| **[Dust and Signals](https://github.com/akintokmak)** | 2D sci-fi action-platformer with custom movement mechanics and combat systems | `Unity` `C#` |
-| **[100 Days of Code](https://github.com/akintokmak)** | Project-based Python portfolio — GUI applications, automation scripts, and API integrations | `Python` `tkinter` |
-| **[Data Structures & Algorithms](https://github.com/akintokmak)** | From-scratch implementations: stacks, queues, linked lists, binary search trees, and heap sort | `C++` |
-
-> Replace the placeholder links above with your actual repository URLs.
+- 🚀 **Currently focused on:** Progressing through **100 Days of Code (Python)**, building small real-world applications along the way.
+- 🧠 **Algorithms & Data Structures:** Working through the **LeetCode 75** study plan, backed by coursework in C++ data structures.
+- 🤖 **AI-assisted development:** Built a business management web application for a local auto service company using AI development tools — scoping the requirements, directing the tooling, and shipping something that actually gets used.
+- 🎮 **Game development:** Developing 2D sci-fi action-platformers like *Dust and Signals* with Unity and C#.
+- 🌱 **Next up:** NumPy, pandas, and the fundamentals of machine learning.
 
 ---
 
-### Tech Stack
-
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-
-**Backend & Web**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-**Tools & Platforms**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-
-**Currently Learning**
-
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-
----
-
-### GitHub Activity
+### 🛠️ Technologies & Tools
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=akintokmak&show_icons=true&theme=dracula&hide_border=true&cache_seconds=86400" alt="GitHub Stats" />
-<img height="180" src="https://streak-stats.demolab.com?user=akintokmak&theme=dracula&hide_border=true" alt="GitHub Streak" />
+**Languages**
 
-<br/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akintokmak&layout=compact&theme=dracula&hide_border=true&langs_count=6&cache_seconds=86400" alt="Top Languages" />
+**Tools & Platforms**
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server" />
+<img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" />
+
+**Learning**
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+<img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas" />
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
 
 </div>
 
 ---
 
+### 📊 GitHub Analytics
+
 <div align="center">
-<sub>Open to internship opportunities in backend engineering and machine learning.</sub>
+  <a href="https://github.com/akintokmak">
+    <img height="195" src="https://streak-stats.demolab.com?user=akintokmak&theme=dracula&hide_border=true" alt="Akın's Streak" />
+  </a>
+</div>
+
+---
+
+<div align="center">
+<sub>Open to internship opportunities in software engineering.</sub>
 </div>
